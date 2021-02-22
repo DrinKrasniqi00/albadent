@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <!--SCALE PER PAJISJE -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <meta charset="UTF-8">
+        <!--Titulli-->
+        <title>ALBA DENT</title>
+        <!--FONTI I TEXTIT-->
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;900&display=swap" rel="stylesheet">
+        <!--FILE CSS-->
+        
+        <link rel="stylesheet" href="style.css", href="team.css">  
+      
+    </head>
+    <body>
+        <header>
+          <!--AREA E NAVIGIMIT-->
+       <div class="content">
+              <div class="wrapper">
+            <div class="logo">
+                <img src="Invisalign-PROVIDER-Logo.png" alt=""style="max-width:100%;height:auto">
+            </div>
+    <ul class="nav-area">
+      <li><a href="index.html">Home</a></li>
+    <li><a href="cmimet.html">Cmimet</a></li>
+    <li><a href="trajtimet.html">Trajtimet</a></li>
+    <li><a href="rreth_nesh.html">Rreth Nesh</a></li>
+    <li><a href="galeria.html">Galeria</a></li>
+    <li><a href="team.html">Team</a></li>
+    </ul>
+    </div>
+    </div>
+    <br><br><br><br><br><br>
+    <!--TEAM KOLONA-->
+   <div class="wrapper">
+    <div class="row">
+        <div class="column">
+          <div class="card">
+            <img src="test.jpg" alt="Blerimi" style="max-width:100%;height:auto">
+            <div class="container">
+              <h2>Blerim Mehmeti</h2>
+              <p class="title">Ortodont</p>
+              
+            </div>
+          </div>
+        </div>
+      
+        <div class="column">
+          <div class="card">
+            <img src="test.jpg" alt="Shpendi" style="max-width:100%;height:auto">
+            <div class="container">
+              <h2>Shpend Gashi</h2>
+              <p class="title">Implantolog</p>
+              
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <img src="test.jpg" alt="Jeta" style="max-width:100%;height:auto">
+            <div class="container">
+              <h2>Jeta Kelemndi</h2>
+              <p class="title">Ortodont</p>
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="column">
+          <div class="card">
+            <img src="test.jpg" alt="Granita" style="max-width:100%;height:auto">
+            <div class="container">
+              <h2>Granita Muhaxheri </h2>
+              <p class="title">Paradontologe</p>
+              
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <img src="Hava.JPG" alt="Fjolla" style="max-width:100%;height:auto">
+            <div class="container">
+              <h2>Hava Qallapeku </h2>
+              <p class="title">Ndihmëse</p>
+              
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <img src="test.jpg" alt="Hava" style="max-width:100%;height:auto">
+            <div class="container">
+              <h2>Fjolla Ukaj </h2>
+              <p class="title">Specializante ne Ortodonci</p>
+              
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <img src="Liridonë.JPG" alt="Liridonë" style="max-width:100%;height:auto">
+            <div class="container">
+              <h2>Liridonë Ukaj </h2>
+              <p class="title">General Dentist</p>
+              
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <img src="test.jpg" alt="Edlira" style="max-width:100%;height:auto">
+            <div class="container">
+              <h2>Edlira Musliu </h2>
+              <p class="title">Ndihmëse</p>
+              
+            </div>
+          </div>
+        </div>
+       
+        <div class="column">
+          <div class="card">
+            <img src="test.jpg" alt="Lale" style="max-width:100%;height:auto">
+            <div class="container">
+              <h2>Lale Rraci </h2>
+              <p class="title">Ndihmëse</p>
+              
+            </div>
+          </div>
+        </div>
+        
+        
+        
+        
+      </div> 
+    </div>
+       
+    
+  
+  
+</body>
+</html>
