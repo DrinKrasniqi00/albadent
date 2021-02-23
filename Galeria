@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!--SCALE PER PAJISJE -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta charset="UTF-8">
+        <!--Titulli-->
+        <title>ALBA DENT</title>
+        <!--FONTI I TEXTIT-->
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">  
+        <script src="js.js"></script>   
+    </head>
+    <body>
+        <header>
+            <!--AREA E NAVIGIMIT-->
+       <div class="content">
+              <div class="wrapper">
+            <div class="logo">
+                <img src="Invisalign-PROVIDER-Logo.png" alt=""style="max-width:100%;height:auto;">
+            </div>
+    <ul class="nav-area">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="cmimet.html">Cmimet</a></li>
+    <li><a href="trajtimet.html">Trajtimet</a></li>
+    <li><a href="rreth_nesh.html">Rreth Nesh</a></li>
+    <li><a href="galeria.html">Galeria</a></li>
+    <li><a href="team.html">Team</a></li>
+    </ul>
+    </div>
+    </div>
+    <br><br><br><br><br><br>
+
+    <h2>PORTFOLIO</h2>
+    <div id="myBtnContainer">
+      <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+      <button class="btn" onclick="filterSelection('Proteza')"> Proteza</button>
+      <button class="btn" onclick="filterSelection('Implante')"> Implante</button>
+      <button class="btn" onclick="filterSelection('PP')"> Para/Pas</button>
+    </div>
+    
+    <!-- Portfolio Gallery Grid -->
+    <div class="row">
+      <div class="column2 PP">
+        <div class="content">
+          <img src="p1.jpg" alt="Mountains" style="width:100%">
+          <h4>Mountains</h4>
+          <p>Lorem ipsum dolor..</p>
+        </div>
+      </div>
+      <div class="column2 PP">
+        <div class="content2">
+          <img src="p2.jpg" alt="Lights" style="width:100%">
+          <h4>Lights</h4>
+          <p>Lorem ipsum dolor..</p>
+        </div>
+      </div>
+     
+   
+    </header>
+</body>
+</html>
